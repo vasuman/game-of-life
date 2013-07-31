@@ -1,13 +1,3 @@
-# game-of-life
+# Conway's game of life
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+A simple demo of emergent behaviour

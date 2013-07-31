@@ -1,3 +1,3 @@
-# Introduction to game-of-life
+# Conway's Game of Life
 
-TODO: write [great documentation](http://jacobian.org/writing/great-documentation/what-to-write/)
+A simple Game of Life demo written in Clojure
